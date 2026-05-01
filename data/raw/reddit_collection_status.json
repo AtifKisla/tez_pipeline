@@ -1,0 +1,13 @@
+{
+  "completed_cities": [],
+  "processed_files": [
+    "reddit\\subreddits25\\Europetravel_submissions.zst",
+    "reddit\\subreddits25\\GreeceTravel_submissions.zst",
+    "reddit\\subreddits25\\ItalyTravel_submissions.zst",
+    "reddit\\subreddits25\\LondonTravel_submissions.zst",
+    "reddit\\subreddits25\\solotravel_submissions.zst",
+    "reddit\\subreddits25\\travel_submissions.zst",
+    "reddit\\subreddits25\\uktravel_submissions.zst"
+  ],
+  "source_mode": "dump"
+}

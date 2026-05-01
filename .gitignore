@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+outputs/models/*.joblib
+data/raw/reddit_posts.csv
+data/raw/reddit_dump_submissions/
+data/interim/*.csv
+data/processed/*.csv

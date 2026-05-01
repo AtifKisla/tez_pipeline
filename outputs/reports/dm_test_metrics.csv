@@ -1,0 +1,7 @@
+scope,model,dm_stat,p_value
+global,trend_plus_reddit_full_linear,-1.816598609106904,0.06927859658187252
+global,trend_plus_reddit_full_rf,-0.18723935508570005,0.8514729695472993
+stable,trend_plus_reddit_full_linear,-3.1305891675246773,0.0017445602852030895
+stable,trend_plus_reddit_full_rf,-1.244726197501947,0.21323241276352123
+volatile,trend_plus_reddit_full_linear,-1.8076469075018518,0.07066147268723033
+volatile,trend_plus_reddit_full_rf,-0.15701137816299118,0.8752358808499188
